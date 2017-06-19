@@ -1,9 +1,9 @@
 
-class YourDisease extends DiseaseBlueprint {
+class JambaDisease extends DiseaseBlueprint {
     
     @Override
     public String getName() {
-        return "Your Disease";
+        return "JambaDisease";
     }
     
     @Override
